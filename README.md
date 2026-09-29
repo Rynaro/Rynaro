@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/atelier-lair.gif" alt="Atelier lair · 16-bit workbench with six boiling Orchid flasks" width="840" />
+  <img src="./assets/atelier-lair.png" alt="Atelier lair · 16-bit workbench with six boiling Orchid flasks" width="840" />
 </p>
 
 <details>
